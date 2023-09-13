@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - plane
+  - Prefab
+  - spawnCollider
+  - spawn
+  - "Prefab,sar\u0131"
+  - Prefab,mavi
+  - "Prefab,ye\u015Fil"
+  - Slot
+  - PunchSlot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\xFCst"
+    uniqueID: 2219511735
+    locked: 0
+  - name: alt
+    uniqueID: 2378908327
+    locked: 0
